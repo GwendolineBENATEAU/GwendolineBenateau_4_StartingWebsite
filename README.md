@@ -1,4 +1,4 @@
-![LaChouetteAgence](https://github.com/GwendolineBENATEAU/GwendolineBenateau_4_02042021_LaChouetteAgence/blob/master/docs/Presentation-P4.jpg)
+![LaChouetteAgence](https://github.com/GwendolineBENATEAU/LaChouetteAgence/blob/master/docs/Presentation-P4.jpg)
 
 
 
